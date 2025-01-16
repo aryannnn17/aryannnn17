@@ -3,7 +3,7 @@
 <div> 
 > Currently Pursuing Master of Science in Computer Science @California State University, East Bay 
 </div>
-<div> > Find my resume here => <i><strong><a href ="(https://drive.google.com/file/d/1ryjvZRK9lhX0WmEXuCyN8RrtWJQS-yi8/view?usp=sharing)">Resume</a></strong></i></div>
+<div> > Find my resume here => <i><strong><a href ="https://drive.google.com/file/d/1ryjvZRK9lhX0WmEXuCyN8RrtWJQS-yi8/view?usp=sharing">Resume</a></strong></i></div>
 
 <div> > Leetcode Profile => <i><strong><a href ="https://leetcode.com/u/aryannnn17/">aryannnn17</a></strong></i></div>
 <div>
