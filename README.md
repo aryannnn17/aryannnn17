@@ -1,8 +1,8 @@
-<h1> Hi, I'm Aryan! </h1>
+
 <section id="about-me">
-  <h4>About Me</h4>
+  <h2>About Me</h2>
   <p>
-    Hi, I’m Aryan Bhagat! I’m a tech enthusiast with a passion for web development, competitive programming, and machine learning. 
+    Hi, <strong>I’m Aryan Bhagat!</strong> I’m a tech enthusiast with a passion for web development, competitive programming, and machine learning. 
     I’ve worked on exciting projects like building machine learning models for breast cancer diagnosis, creating BLE-based payment 
     sound boxes, and clustering techniques for customer segmentation. My skills include <strong>Python, C++, Java, ReactJS, NodeJS, Django,</strong> 
     and <strong>Flask</strong>, and I’ve also dabbled in embedded systems during internships where I developed firmware for 
@@ -10,8 +10,8 @@
   </p>
   <p>
     Currently pursuing my MS in Computer Science at <strong>California State University, East Bay</strong> (GPA 3.9), I’m on the lookout 
-    for <strong>Summer 2025 opportunities</strong> to contribute to impactful projects, learn, and grow. Let’s connect—check out my work on 
-    <a href="https://github.com/aryannnn17" target="_blank">GitHub</a> and <a href="https://linkedin.com/in/aryanbhagat" target="_blank">LinkedIn</a>!
+    for <strong>Summer 2025 opportunities</strong> to contribute to impactful projects, learn, and grow. Find my work on 
+    <a href="https://github.com/aryannnn17" target="_blank">GitHub Repos</a> and let's connect on <a href="https://linkedin.com/in/aryanbhagat" target="_blank">LinkedIn</a>!
   </p>
 </section>
 
