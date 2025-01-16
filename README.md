@@ -1,7 +1,7 @@
-<h2> Hi, I'm Aryan! </h2>
-<h4> 
+<h1> Hi, I'm Aryan! <p> 
 > Currently Pursuing Master of Science in Computer Science @California State University, East Bay 
-</h4>
+</p></h1>
+
 
 <div> > Find my resume here => <i><strong><a href ="https://leetcode.com/u/aryannnn17/">Resume</a></strong></i></div>
 
