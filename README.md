@@ -9,5 +9,5 @@
 <div>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryannnn17&theme=transparent&hide_border=true&langs_count=20&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aryannnn17&show_icons=true&theme=transparent&hide_border=true&custom_title="Stats"&rank_icon=github&include_all_commits=true&hide=contribs,prs,stars,issues&card_width=150px)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aryannnn17&show_icons=true&theme=transparent&hide_border=true&custom_title=Stats&rank_icon=github&include_all_commits=true&hide=contribs,prs,stars,issues&card_width=150px)
 </div>
