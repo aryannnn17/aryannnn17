@@ -1,4 +1,3 @@
-<section id="about-me">
   <h2>About Me</h2>
   <p>
     Hi, <strong>I’m Aryan Bhagat!</strong> I’m a tech enthusiast with a passion for web development, competitive programming, and machine learning. 
@@ -12,7 +11,7 @@
     for <strong>Summer 2025 opportunities</strong> to contribute to impactful projects, learn, and grow. Find my work on 
     <a href="https://github.com/aryannnn17" target="_blank">GitHub Repos</a> and let's connect on <a href="https://linkedin.com/in/aryanbhagat" target="_blank">LinkedIn</a>!
   </p>
-</section>
+
 
 <!--<div> > Currently Pursuing Master of Science in Computer Science @California State University, East Bay </div> -->
 <div> > Click for => <i><strong><a href ="https://drive.google.com/file/d/1ryjvZRK9lhX0WmEXuCyN8RrtWJQS-yi8/view?usp=sharing">Resume</a></strong></i></div>
