@@ -14,9 +14,9 @@
 
 
 <!--<div> > Currently Pursuing Master of Science in Computer Science @California State University, East Bay </div> -->
-<div> > Click for => <i><strong><a href ="https://drive.google.com/file/d/1ryjvZRK9lhX0WmEXuCyN8RrtWJQS-yi8/view?usp=sharing">Resume</a></strong></i></div>
+<div> > Find my <i><strong><a href ="https://drive.google.com/file/d/1ryjvZRK9lhX0WmEXuCyN8RrtWJQS-yi8/view?usp=sharing">Resume</a></strong></i> here!</div>
 <!--<div> > Connect on LinkedIn => <i><strong><a href ="https://www.linkedin.com/in/aryanbhagat/">aryanbhagat</a></strong></i></div>-->
-<div> > Click for Leetcode Profile => <i><strong><a href ="https://leetcode.com/u/aryannnn17/">aryannnn17</a></strong></i></div>
+<div> > Leetcode Profile <i><strong><a href ="https://leetcode.com/u/aryannnn17/">aryannnn17</a></strong></i></div>
 <div> > Work Email <i><strong><a href ="mailto:aryanbhagat2602@gmail.com">aryanbhagat2602@gmail.com</a></strong></i></div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryannnn17&theme=transparent&hide_border=true&langs_count=20&layout=compact&card_height=500px&card_width=500px&exclude_repo=Projects)
