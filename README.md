@@ -18,7 +18,7 @@
 
 <!--<div> > Currently Pursuing Master of Science in Computer Science @California State University, East Bay </div> -->
 <div> > Find my <i><strong><a href ="https://drive.google.com/file/d/1ryjvZRK9lhX0WmEXuCyN8RrtWJQS-yi8/view?usp=sharing">Resume</a></strong></i> here!</div>
-<!--<div> > Connect on LinkedIn => <i><strong><a href ="https://www.linkedin.com/in/aryanbhagat/">aryanbhagat</a></strong></i></div>-->
+<div> > Connect on <i><strong><a href ="https://www.linkedin.com/in/aryanbhagat/">LinkedIn</a></strong></i></div>
 <div> > Leetcode Profile <i><strong><a href ="https://leetcode.com/u/aryannnn17/">aryannnn17</a></strong></i></div>
 <div> > Work Email <i><strong><a href ="mailto:aryanbhagat2602@gmail.com">aryanbhagat2602@gmail.com</a></strong></i></div>
 
