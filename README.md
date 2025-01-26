@@ -11,8 +11,7 @@
   </p>
   <p>
     Currently pursuing my MS in Computer Science at <strong>California State University, East Bay</strong> (GPA 3.9), I’m on the lookout 
-    for <strong>Summer 2025 opportunities</strong> to contribute to impactful projects, learn, and grow. Find my work on 
-    <a href="https://github.com/aryannnn17" target="_blank">GitHub Repos</a> and let's connect on <a href="https://linkedin.com/in/aryanbhagat" target="_blank">LinkedIn</a>!
+    for <strong>Summer 2025 opportunities</strong> to contribute to impactful projects, learn, and grow.
   </p>
 
 
