@@ -1,6 +1,27 @@
- <img 
+ <!--<img 
     src="https://drive.google.com/uc?export=view&id=1p-AGosogfvPl14QandnkddgHcRZ2FnN2" 
-    alt="Full-screen background"/>
+    alt="Full-screen background"/> -->
+   <div class="page-container">
+    <!-- Replace with your own Google Drive direct link -->
+    <img 
+      class="bg-img"
+      src="https://drive.google.com/uc?export=view&id=1p-AGosogfvPl14QandnkddgHcRZ2FnN2"
+      alt="Full-screen background"
+    />
+    <div class="linkedin-container">
+      <a 
+        href="https://www.linkedin.com/in/aryanbhagat" 
+        target="_blank" 
+        rel="noopener noreferrer"
+      >
+        <img 
+          class="linkedin-logo"
+          src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
+          alt="LinkedIn"
+        />
+      </a>
+    </div>
+  </div>
   <h2>About Me</h2>
   <p>
     Hi, <strong>I’m Aryan Bhagat!</strong> I’m a tech enthusiast with a passion for web development, competitive programming, and machine learning. 
