@@ -5,8 +5,8 @@
   <p>
     Hi, <strong>I’m Aryan Bhagat!</strong> I’m a tech enthusiast with a passion for web development, competitive programming, and machine learning. 
     I’ve worked on exciting projects like building machine learning models for breast cancer diagnosis, creating BLE-based payment 
-    sound boxes, and clustering techniques for customer segmentation. My skills include <strong>Python, C++, JavaScript, ReactJS, NodeJS, Django,</strong> 
-    and <strong>Flask</strong>, and I’ve also dabbled in embedded systems during internships where I developed firmware for 
+    sound boxes, and clustering techniques for customer segmentation. My skills include <strong>Python, C++, JavaScript, ReactJS, NodeJS, Django, Pandas, Scikit-learn, Keras</strong> 
+    and <strong>TensorFlow </strong>, and I’ve also dabbled in embedded systems during internships where I developed firmware for 
     Nordic, Quectel, and Renesas boards.
   </p>
   <p>
