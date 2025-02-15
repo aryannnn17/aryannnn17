@@ -1,7 +1,7 @@
-<!--<img 
+<img 
     src="https://drive.google.com/uc?export=view&id=1p-AGosogfvPl14QandnkddgHcRZ2FnN2" 
     alt="Full-screen background"/> 
-  <h2>About Me</h2> -->
+  <h2>About Me</h2>
   <p>
     Hi, <strong>I’m Aryan Bhagat!</strong> I’m a tech enthusiast with a passion for web development, competitive programming, and machine learning. 
     I’ve worked on exciting projects like building machine learning models for breast cancer diagnosis, creating BLE-based payment 
