@@ -1,5 +1,5 @@
 <img 
-    src="https://drive.google.com/file/d/16EBW1y6BqEdWOhNRXMUQvF-IWCgijE1f/view?usp=sharing" 
+    src="https://drive.google.com/file/d/16EBW1y6BqEdWOhNRXMUQvF-IWCgijE1f/view" 
     alt="Full-screen background"/> 
   <h2>About Me</h2>
   <p>
@@ -16,7 +16,7 @@
 
 
 <!--<div> > Currently Pursuing Master of Science in Computer Science @California State University, East Bay </div> -->
-<div> > Check out my <i><strong><a href ="https://drive.google.com/file/d/1Nu-VCtlBDLWcNQmqB9EiFRC9ZHHqoJL8/view?usp=sharing" target="_blank">Resume</a></strong></i></div>
+<div> > Check out my <i><strong><a href ="https://drive.google.com/file/d/1Nu-VCtlBDLWcNQmqB9EiFRC9ZHHqoJL8/view?usp=drive_link" target="_blank">Resume</a></strong></i></div>
 <div> > Connect on <i><strong><a href ="https://www.linkedin.com/in/aryanbhagat/" target="_blank">LinkedIn</a></strong></i></div>
 <div> > Leetcode Profile <i><strong><a href ="https://leetcode.com/u/aryannnn17/" target="_blank">aryannnn17</a></strong></i></div>
 <div> > Work Email <i><strong><a href ="mailto:aryanbhagat2602@gmail.com" target="_blank">aryanbhagat2602@gmail.com</a></strong></i></div>
