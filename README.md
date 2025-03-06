@@ -18,6 +18,6 @@
 <div> > Leetcode Profile <i><strong><a href ="https://leetcode.com/u/aryannnn17/" target="_blank">aryannnn17</a></strong></i></div>
 <div> > Work Email <i><strong><a href ="mailto:aryanbhagat2602@gmail.com" target="_blank">aryanbhagat2602@gmail.com</a></strong></i></div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryannnn17&theme=transparent&hide_border=true&langs_count=20&layout=compact&card_height=500px&card_width=500px&exclude_repo=Projects,MachineLearning_Tutorial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryannnn17&theme=transparent&hide_border=true&langs_count=20&layout=compact&card_height=500px&card_width=500px&exclude_repo=Projects,MachineLearning_Tutorial,MS_CS_CourseWork/CS_667_Machine_Learning)
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=aryannnn17&show_icons=true&theme=transparent&hide_border=true&custom_title=Stats&rank_icon=github&include_all_commits=true&hide=contribs,prs,stars,issues&card_width=150px)
 </div>
