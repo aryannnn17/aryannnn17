@@ -1,10 +1,11 @@
 
   <p>
-    Hi, <strong>I’m Aryan Bhagat!</strong> I’m a tech enthusiast with a passion for web development, competitive programming, and machine learning. 
-    I’ve worked on exciting projects like building machine learning models for breast cancer diagnosis, creating BLE-based payment 
-    sound boxes, and clustering techniques for customer segmentation. My skills include <strong>Python, C++, JavaScript, ReactJS, NodeJS, Django, Pandas, LLM,  Scikit-learn, Keras</strong> 
-    and <strong>TensorFlow </strong>, and I’ve also dabbled in embedded systems during internships where I developed firmware for 
-    Nordic, Quectel, and Renesas boards.
+    
+
+👋 Hi, I’m <strong> Aryan Bhagat </strong> — a software engineer and tech enthusiast passionate about building scalable web applications and solving real-world problems. I’m currently pursuing my Master’s in Computer Science at California State University, East Bay (GPA: 3.9), with a focus on full-stack development, system design, and performance optimization.
+
+💻 I work with JavaScript, ReactJS, NodeJS, Python, C++, Django, and more. My projects range from ML-powered healthcare diagnostics to BLE-based IoT payment systems. I also enjoy competitive programming, exploring ML/AI with Scikit-learn, TensorFlow, Keras, and dabbling in embedded systems firmware for boards like Nordic, Quectel, and Renesas.
+🚀 Currently seeking Summer 2025 Software Engineering opportunities to contribute, learn, and collaborate on impactful tech.
   </p>
   <p>
     Currently pursuing my MS in Computer Science at <strong>California State University, East Bay</strong> (GPA 3.9), I’m on the lookout 
