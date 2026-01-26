@@ -2,7 +2,7 @@
   <p>
     
 
-👋 Hi, I’m <strong> Aryan Bhagat </strong> - a software engineer and tech enthusiast passionate about building scalable web applications and solving real-world problems. I’m currently pursuing my Master’s in Computer Science at California State University, East Bay (GPA: 3.9), with a focus on Machine Learning, LLMs, full-stack development, and performance optimization.
+👋 Hi, I’m <strong> Aryan Bhagat </strong> - a software engineer and tech enthusiast passionate about building scalable web applications and solving real-world problems. I’m currently pursuing my Master’s in Computer Science at California State University, East Bay (GPA: 3.93), with a focus on Machine Learning, LLMs, full-stack development, and performance optimization.
 
 💻 I work with <strong> JavaScript, ReactJS, NodeJS, Python, C++, Django, </strong>and more. My projects range from ML-powered healthcare diagnostics to BLE-based IoT payment systems. I also enjoy competitive programming, exploring ML/AI with Scikit-learn, TensorFlow, Keras, and dabbling in embedded systems firmware for boards like Nordic, Quectel, and Renesas.
 
