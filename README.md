@@ -30,7 +30,7 @@ Focused on building scalable systems across <b>AI/ML, backend engineering, and r
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryannnn17&theme=transparent&hide_border=true&layout=compact" />
+  ("https://github-readme-stats.vercel.app/api/top-langs/?username=aryannnn17&theme=transparent&hide_border=true&layout=compact")
 </p>
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=aryannnn17&show_icons=true&theme=transparent&hide_border=true&custom_title=Stats&rank_icon=github&include_all_commits=true&hide=contribs,prs,stars,issues&card_width=150px)
 </div>
