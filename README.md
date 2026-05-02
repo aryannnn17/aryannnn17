@@ -27,10 +27,20 @@ Focused on building scalable systems across <b>AI/ML, backend engineering, and r
 - 📧 Email: aryanbhagat2602@gmail.com  
 
 
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryannnn17&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryannnn17&theme=transparent&hide_border=true&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=aryannnn17&theme=transparent&hide_border=true)
+
+<!--
 ### 📊 GitHub Stats
 <p align="center">
   ("https://github-readme-stats.vercel.app/api/top-langs/?username=aryannnn17&theme=transparent&hide_border=true&layout=compact")
 </p>
+-->
+
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=aryannnn17&show_icons=true&theme=transparent&hide_border=true&custom_title=Stats&rank_icon=github&include_all_commits=true&hide=contribs,prs,stars,issues&card_width=150px)
 </div>
