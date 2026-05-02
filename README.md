@@ -11,11 +11,11 @@ Focused on building scalable systems across <b>AI/ML, backend engineering, and r
 
 ### 🚀 About Me
 
-- 💡 I build **scalable, real-world systems** spanning **LLMs, distributed systems, and full-stack applications**
-- 🤖 Experience with **RAG pipelines, LLM-based applications, and real-time AI systems**
-- ⚙️ Strong background in **backend engineering, APIs, and system design**
-- 🔍 Previously worked on **robotics perception pipelines (ROS2, Jetson)** and **low-latency embedded systems**
-- 📈 Interested in **high-performance systems, AI infrastructure, and product-driven engineering**
+-  I build **scalable, real-world systems** spanning **LLMs, distributed systems, and full-stack applications**
+-  Experience with **RAG pipelines, LLM-based applications, and real-time AI systems**
+-  Strong background in **backend engineering, APIs, and system design**
+-  Previously worked on **robotics perception pipelines (ROS2, Jetson)** and **low-latency embedded systems**
+-  Interested in **high-performance systems, AI infrastructure, and product-driven engineering**
 
 <!--<div> > Currently Pursuing Master of Science in Computer Science @California State University, East Bay </div> -->
 <!--<div> - Check out my <i><strong><a href ="https://drive.google.com/file/d/1Nu-VCtlBDLWcNQmqB9EiFRC9ZHHqoJL8/view?usp=drive_link" target="_blank">Resume</a></strong></i> </div> -->
