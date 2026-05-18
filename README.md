@@ -21,7 +21,7 @@ Focused on building scalable systems across <b>AI/ML, backend engineering, and r
 <!--<div> - Check out my <i><strong><a href ="https://drive.google.com/file/d/1Nu-VCtlBDLWcNQmqB9EiFRC9ZHHqoJL8/view?usp=drive_link" target="_blank">Resume</a></strong></i> </div> -->
 ### 📫 Connect With Me
 
-- 🌐 Portfolio: https://aryanbhagat-portfolio.vercel.app/  
+- 🌐 Portfolio: https://aryan-bhagat-portfolio.vercel.app/ 
 - 💼 LinkedIn: https://www.linkedin.com/in/aryanbhagat   
 - 🧠 LeetCode: https://leetcode.com/u/aryannnn17/  
 - 📧 Email: aryanbhagat2602@gmail.com  
