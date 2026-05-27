@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Bhagat</h1>
 
-<h3 align="center">Software Engineer | ML & Systems Enthusiast</h3>
+<h3 align="center">SWE | AI & Systems Enthusiast</h3>
 
 <p align="center">
 
